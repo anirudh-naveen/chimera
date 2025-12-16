@@ -126,4 +126,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 11b08471a0ada2644a3d9a5ffb3f305a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  splash: {fileID: -2121204979, guid: f9816e96f9e214f4b98824a0d5227047, type: 3}
+  splash: {fileID: -1010684202, guid: e01ed3eab9eaf481395852c5422debaa, type: 3}

@@ -126,7 +126,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 89251a52dd035644a8076aec8da76948, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  splash: {fileID: -383063389, guid: f9816e96f9e214f4b98824a0d5227047, type: 3}
+  splash: {fileID: -1913214391, guid: e01ed3eab9eaf481395852c5422debaa, type: 3}
   meowClips:
   - {fileID: 8300000, guid: 17a16758b9dae2c49a4af9200eaa33e3, type: 3}
   - {fileID: 8300000, guid: 0ebac081939bd4443b9d9c870dab62ba, type: 3}

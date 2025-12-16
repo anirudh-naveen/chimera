@@ -127,7 +127,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43087cb14eb086e4faefe9ae46ab2210, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  splash: {fileID: -5607560301056216835, guid: f9816e96f9e214f4b98824a0d5227047, type: 3}
+  splash: {fileID: 4048947439692459629, guid: e01ed3eab9eaf481395852c5422debaa, type: 3}
   ability_description: A legendary creature of prophecy, Mosley packs peerless defense
     at a huge cost to mobility. While normally not particularly capable on the offense,
     when he becomes hungry he will devour anything unfortunate enough to come close.
@@ -137,6 +137,7 @@ MonoBehaviour:
     I couldn\u2019t quite say who she was except she felt like both my creator and
     my end."
   ability_name: Maw of Death
+  creature: {fileID: 0}
   rarity: 5
   abilitySound: {fileID: 8300000, guid: 37e27c489979f8f44af63752b54f2e9f, type: 3}
   animationFrames:
